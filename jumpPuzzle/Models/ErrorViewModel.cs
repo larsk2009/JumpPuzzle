@@ -1,6 +1,4 @@
-using System;
-
-namespace jumpPuzle.Models
+namespace jumpPuzzle.Models
 {
     public class ErrorViewModel
     {
