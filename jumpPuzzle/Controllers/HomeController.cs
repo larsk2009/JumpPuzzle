@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using System.Diagnostics;
+using jumpPuzzle.Models;
 using Microsoft.AspNetCore.Mvc;
-using jumpPuzle.Models;
 
-namespace jumpPuzle.Controllers
+namespace jumpPuzzle.Controllers
 {
     public class HomeController : Controller
     {
